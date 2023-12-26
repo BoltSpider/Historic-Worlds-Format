@@ -4,3 +4,18 @@ This is made for fun and Tournaments as well so I hope you all enjoy. If you use
 
 Note: Only special cards will be added if needed to make others work, example: Psy-Framegear Gamma needs Psy-Frame Driver. 
  - Psy-Frame Driver will be permanently limited
+ - Eldlich the Golden Lord
+ - Mystical Shine Ball
+ - Helios - the Primordial Sun
+ - Polymerization
+ - Timegazer Magician
+ - Stargazer Magician
+ - Dark Magician
+ - Red-Eyes Black Dragon
+ - B-Buster Drake
+ - C-Crush Wyvern
+ - Relinquished
+ - Thousand-Eyes Idol
+ - Gem-Knight Garnet
+ - Gem-Knight Tourmaline
+ - Gem-Knight Sapphire
