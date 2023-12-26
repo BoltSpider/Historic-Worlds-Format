@@ -2,8 +2,8 @@ Rules are simple, matches are Best of 3 This format will have a custom ban list 
 
 This is made for fun and Tournaments as well so I hope you all enjoy. If you use this for a tournament please credit me as the creator.
 
-Note: Only special cards will be added if needed to make others work, example: Psy-Framegear Gamma needs Psy-Frame Driver. 
- - Psy-Frame Driver will be permanently limited
+Note: Only special cards will be added if needed to make others work, example: Psy-Framegear Gamma needs Psy-Frame Driver. These cards will be permanently limited.
+ - Psy-Frame Driver
  - Eldlich the Golden Lord
  - Mystical Shine Ball
  - Helios - the Primordial Sun
