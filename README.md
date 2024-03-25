@@ -20,3 +20,4 @@ Note: Only special cards will be added if needed to make others work, example: P
  - Gem-Knight Tourmaline
  - Gem-Knight Sapphire
  - Invocation
+ - Diabellstar the Black Witch
