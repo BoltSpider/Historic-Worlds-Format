@@ -20,7 +20,6 @@ Note: Only special cards will be added if needed to make others work, example: P
  - Gem-Knight Tourmaline
  - Gem-Knight Sapphire
  - Invocation
- - Diabellstar the Black Witch
 
 Note: Only special cards will be added if needed to make others work, example: Psy-Framegear Gamma needs Psy-Frame Driver. These cards will be permanently
  - Evilswarm Heliotrope
